@@ -1,4 +1,4 @@
-# Lesson 01 : What you need to code in PhysiCell 
+# Lesson 1 : What you need to code in PhysiCell 
 This lesson briefly introduces the software requirements for coding in PhysiCell. 
 
 ## Video recording of lesson 
@@ -19,6 +19,6 @@ None for this lesson.
 ## Educational microapps 
 1. NanoHUB workspace: https://www.nanohub.org/tools/workspace 
 
-See [lesson 02](https://github.com/physicell-training/02-How-to-nanoHUB) for a tutorial on running [PhysiCell](http://PhysiCell.org) models on [nanoHUB](https://www.nanohub.org). 
+See [Lesson 2](https://github.com/physicell-training/02-How-to-nanoHUB) for a tutorial on running [PhysiCell](http://PhysiCell.org) models on [nanoHUB](https://www.nanohub.org). 
 
 
